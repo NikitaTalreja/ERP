@@ -1,0 +1,1 @@
+Inventory management system which can be used by any company.
